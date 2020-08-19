@@ -1,15 +1,19 @@
 body{
     font-family: 'Nunito';
+    background:url(tumblr_o5i0m2NLfl1uj1mdgo1_500.jpg);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
 
 h2{
-    font-size: 18px;
+    font-size: 20px;
     padding: 10px 20px;
-    color: #575ed8;
+    color: white;
 }
 
 #mario-chat{
     max-width: 600px;
+    text-align: center;
     margin: 30px auto;
     border: 1px solid #ddd;
     box-shadow: 1px 3px 5px rgba(0,0,0,0.05);
